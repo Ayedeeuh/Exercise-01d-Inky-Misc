@@ -1,5 +1,5 @@
 # Exercise-01d-Inky-Misc
 
-# Your Name
+# Adia Holt
 
-# Your Github username
+# AyeDeeUh
